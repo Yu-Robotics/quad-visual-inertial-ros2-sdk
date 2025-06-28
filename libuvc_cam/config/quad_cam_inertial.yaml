@@ -1,0 +1,11 @@
+/**:
+  ros__parameters:
+    vendor_id: "2207"
+    product_id: "0016"
+    frame_fmt : "MJPEG"
+    image_width: 2560
+    image_height: 480
+    frames_per_second: 30
+    camera_topic_suffix: /image_raw
+    camera_topic_prefix: /cam
+    imu_topic_name: /imu0
